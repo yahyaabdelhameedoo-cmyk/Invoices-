@@ -1,0 +1,17 @@
+{
+  "id": "./invoices.html",
+  "name": "الفواتير",
+  "short_name": "الفواتير",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./invoices.html",
+  "scope": "./invoices.html",
+  "display": "standalone",
+  "background_color": "#EEF6F7",
+  "theme_color": "#E8892B",
+  "prefer_related_applications": false,
+  "icons": [
+    {"src": "invoices-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "invoices-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
